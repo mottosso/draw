@@ -10,8 +10,9 @@ With Docker
 
 ```bash
 git clone https://github.com/JohnMcLear/draw.git
-docker build -t draw draw
-docker run -ti --rm -p 9002:9002 -v $(pwd):/workspace --entrypoint /workspace/bin/run.sh draw
+cd draw
+./build.sh
+./run.sh
 ```
 
 Now browse to http://localhost:9002!
