@@ -1,6 +1,6 @@
 // Please refactor me, this is mostly a complete car crash with globals everywhere.
 
-tool.minDistance = 10;
+tool.minDistance = 1;
 tool.maxDistance = 45;
 
 var room = /.*\/([^?]+)/.exec(window.location.pathname)[1];
