@@ -11,8 +11,8 @@ With Docker
 ```bash
 git clone https://github.com/JohnMcLear/draw.git
 cd draw
-./build.sh
-./run.sh
+. build.sh
+. run.sh
 ```
 
 Now browse to http://localhost:9002!
