@@ -1,4 +1,4 @@
-![alt text](https://f.cloud.github.com/assets/220864/730169/feb98294-e24b-11e2-903d-b3cbc68f3a48.gif "Action Video")
+![untitled_project](https://user-images.githubusercontent.com/2152766/32608825-71e68582-c555-11e7-8177-02759caddb15.gif)
 
 ### An intuitive collaborative drawing web based tool
 
@@ -15,4 +15,4 @@ cd draw
 . run.sh
 ```
 
-Now browse to http://localhost:9002!
+Now browse to http://localhost:3002!
